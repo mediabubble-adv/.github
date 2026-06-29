@@ -38,18 +38,6 @@ We combine deep local market expertise with bilingual capabilities (English + Eg
 
 ---
 
-## GitHub Profile Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mediaBubble-adv&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" alt="mediaBubble-adv GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mediaBubble-adv&theme=radical&hide_border=true" height="160" alt="mediaBubble-adv GitHub Streak" />
-
-</div>
-
----
-
 ## Why Choose MediaBubble?
 
 - Proven track record in Tourism, Real Estate, Hospitality & Services  
